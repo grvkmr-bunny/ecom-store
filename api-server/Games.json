@@ -1,0 +1,302 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "name": "Car Rush",
+      "description": "This is a car racing desktop game",
+      "image": "carrush.jpg",
+      "rating": 3.5,
+      "price": 500,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Aman",
+          "comments": "This is nice game"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Rahul",
+          "comments": "Amazing game"
+        },
+        {
+          "review_id": 3,
+          "reviewerName": "Duggu",
+          "comments": "Awesome"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Call Of Duty",
+      "description": "This is most widely played tournament game. This is Call Of Duty",
+      "image": "cod.jpg",
+      "rating": 5,
+      "price": 1000,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Sumit",
+          "comments": "Interesting"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Kumud",
+          "comments": "Good one"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Jumanji",
+      "description": "This is a adventureous game",
+      "image": "jumanji.jpg",
+      "rating": 4,
+      "price": 600,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Raju",
+          "comments": "Not that much interesting"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "PUBG-Mobile",
+      "description": "This is Asia's most played game. It is played in mobile as well as in emulator",
+      "image": "pubg.jpg",
+      "rating": 4.5,
+      "price": 900,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Rohan",
+          "comments": "Interestingwwwwwwwwwwwwwwww"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Tyagi",
+          "comments": "Good oneeeeeeeeeeeee"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Space Rush",
+      "description": "This is a space game",
+      "image": "spacerush.jpg",
+      "rating": 3,
+      "price": 300,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Anita",
+          "comments": "Not much interesting"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Lion-O's Quest",
+      "description": "It is a cartoon game for child",
+      "image": "lionoquest.jpg",
+      "rating": 4,
+      "price": 500,
+      "review": []
+    }
+  ],
+  "fangear": [
+    {
+      "id": "1",
+      "name": "PUBG L3 Bagpack",
+      "description": "This bagpack is well known to pubg players",
+      "image": "bag.jpg",
+      "rating": 5,
+      "price": 200,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Aman",
+          "comments": "This is nice product"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Rahul",
+          "comments": "Amazing bag"
+        },
+        {
+          "review_id": 3,
+          "reviewerName": "Duggu",
+          "comments": "Awesome"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Sport T-Shirt",
+      "description": "This is a sport t-shirt",
+      "image": "bshirt.jpg",
+      "rating": 4,
+      "price": 400,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Sumit",
+          "comments": "Nice product"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Kumud",
+          "comments": "Good one"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sport Cap",
+      "description": "This is a sport t-shirt",
+      "image": "cap.jpg",
+      "rating": 3,
+      "price": 200,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Raju",
+          "comments": "Not good"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sport Goggles",
+      "description": "This is a sport goggles in dark colour",
+      "image": "googlee.jpg",
+      "rating": 5,
+      "price": 500,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Rohan",
+          "comments": "Nice"
+        },
+        {
+          "review_id": 2,
+          "reviewerName": "Tyagi",
+          "comments": "Good oneeeeeeeeeeeee"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Winter Dress",
+      "description": "This is winter sweater having hoodie",
+      "image": "hoodie.jpg",
+      "rating": 4,
+      "price": 800,
+      "review": [
+        {
+          "review_id": 1,
+          "reviewerName": "Anita",
+          "comments": "Nice cloth quality"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Summer T-shirt",
+      "description": "This is combo tshirt for summer",
+      "image": "shirt.jpg",
+      "rating": 4,
+      "price": 500,
+      "review": []
+    }
+  ],
+  "userData": [
+    {
+      "id": 1,
+      "name": "Gaurav",
+      "email": "bunny@gmail.com",
+      "username": "gaurav",
+      "password": "gaurav",
+      "mobile": "9999999999",
+      "locality": "Sarisab Pahi",
+      "city": "Madhubani",
+      "state": "Bihar",
+      "pin": "847424",
+      "cartItem": {
+        "games": [
+          {
+            "id": "1",
+            "name": "Bamboo Watch",
+            "description": "Product Description",
+            "price": 500
+          }
+        ]
+      },
+      "games": [
+        {
+          "id": "1",
+          "name": "Bamboo",
+          "description": "Product Description",
+          "price": 500
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "username": "manish",
+      "password": "manish",
+      "mobile": "9999999999",
+      "locality": "Sarisab Pahi",
+      "city": "Madhubani",
+      "state": "Bihar",
+      "pin": "847424",
+      "cartItem": {
+        "games": [
+          {
+            "id": "2",
+            "name": "Call Of Duty",
+            "description": "This is most widely played tournament game. This is Call Of Duty",
+            "price": 1000
+          }
+        ],
+        "fangear": []
+      }
+    },
+    {
+      "id": 3,
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "username": "aman",
+      "password": "aman",
+      "mobile": "9999999999",
+      "locality": "Sarisab Pahi",
+      "city": "Madhubani",
+      "state": "Bihar",
+      "pin": "847424",
+      "cartItem": {
+        "games": [],
+        "fangear": [
+          {
+            "id": "1",
+            "name": "Bamboo Watch",
+            "description": "Product Description",
+            "price": 500
+          }
+        ]
+      }
+    }
+  ],
+  "orderData": [
+      {
+        "id": 1,
+        "orders": [
+          {
+            "txnid": 123567
+          }
+        ]
+      }
+  ]
+}

@@ -1,0 +1,9 @@
+.nav__submenu {
+    display: none;
+}
+  
+.nav__menu-item:hover {
+    .nav__submenu {
+        display: block;
+    }
+}
